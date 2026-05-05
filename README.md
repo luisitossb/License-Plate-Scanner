@@ -124,7 +124,7 @@ License-Plate-Scanner/
 
 ---
 
-## Setup & Running
+## Setup & Running Guide
 
 ### On Google Colab (recommended — free GPU)
 
