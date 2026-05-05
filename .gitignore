@@ -68,3 +68,4 @@ desktop.ini
 .env
 *.env
 config_local.py
+.claude/
