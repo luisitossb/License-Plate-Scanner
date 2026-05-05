@@ -2,7 +2,9 @@ torch
 torchvision
 opencv-python
 numpy
+pandas
 Pillow
 matplotlib
 scikit-learn
 jupyter
+kaggle
